@@ -15,16 +15,15 @@ This hack will help you learn:
 3. How Azure Arc enabled Servers enables Azure to act as a management plane for any workload in any public or hybrid cloud
 
 ## Challenges
- - [Challenge 0](./Student/challenge00.md) - Complete Prerequisites (Do before you attend the hack)
  - [Challenge 1](./Student/challenge01.md) - Onboarding servers with Azure Arc
  - [Challenge 2](./Student/challenge02.md) - Policy for Azure Arc connected servers
  - [Challenge 3](./Student/challenge03.md) - Arc Value Add: Integrate Security Center
  - [Challenge 4](./Student/challenge04.md) - Arc Value Add: Enable Sentinel
- - [Challenge 5](./Student/challenge05.md) - Arc Value Add: Azure Lighthouse *Coming Soon*
+ - [Challenge 5](./Student/challenge05.md) - Arc Value Add: Azure Lighthouse 
  
 
 ## Prerequisites
-- Your own Azure subscription with Owner RBAC rights at the subscription level
+- [Activated Azure Pass](https://www.microsoftazurepass.com/Home/HowTo)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Git SCM](https://git-scm.com/download)
 

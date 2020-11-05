@@ -4,7 +4,7 @@
 
 ### Pre-requisites
 
-* Ensure you have [activated your Azure pass using these instructions] (https://www.microsoftazurepass.com/Home/HowTo).
+* Ensure you have [activated your Azure pass using these instructions](https://www.microsoftazurepass.com/Home/HowTo).
 
 * Download and install [Git SCM](https://git-scm.com/download) if you don't have it or a similar Git client installed
 

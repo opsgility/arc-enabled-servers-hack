@@ -27,11 +27,6 @@ This hack will help you learn:
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Git SCM](https://git-scm.com/download)
 
-## Repository Contents (Optional)
-- `../Student`
-  - Student Challenge Guides
-- `../Student/Resources`
-  - Student's resource files, code, and templates to aid with challenges
 
 ## Contributors
 - Dale Kirby

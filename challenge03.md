@@ -13,5 +13,5 @@ In this challenge, we will integrate your Azure Arc connected machines with [Azu
 
 ### Success Criteria
 
-1. Open Azure Security Center and view the [Secure Score](https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls) for your Azure arc connected machine.
+1. Open Azure Security Center, review its Inventory, and verify that it includes the **Servers - Azure Arc** entry representing the Windows Server 2019 Hyper-V VM.
 

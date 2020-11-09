@@ -8,7 +8,7 @@ In this challenge, we will integrate your Azure Arc connected machines with [Azu
 
 ### Challenge
 
-1. Enable Azure Sentinel on your Azure Arc connected machines by configuring the Log Analytics agent to forward events to Azure Sentinel such as Common Event Format (CEF) or Syslog.
+1. Enable Azure Sentinel on your Azure Arc connected machines by connecting to the Log Analytics workspace you configured in challenge #2.
 
 ### Success Criteria
 

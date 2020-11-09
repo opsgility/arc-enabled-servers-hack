@@ -1,6 +1,6 @@
 # What the Hack: Azure Arc enabled Servers 
 
-## Challenge 5 – Arc Value Add: Enable Lighthouse *Coming Soon*
+## Challenge 5 – Arc Value Add: Enable Lighthouse
 
 
 ### Introduction
@@ -9,15 +9,17 @@
 
 With Azure Lighthouse, service providers can deliver managed services using comprehensive and robust management tooling built into the Azure platform. Customers maintain control over who can access their tenant, what resources they can access, and what actions can be taken. This offering can also benefit enterprise IT organizations managing resources across multiple tenants.
 
+   >**Note**: You can simplify the provisioning process by using [sample templates](https://techcommunity.microsoft.com/t5/azure-paas-blog/azure-lighthouse-step-by-step-guidance-onboard-customer-to/ba-p/1793055)
+
 ### Challenge
 
-Pair with another member of your team and [Oonboard their Azure subscription](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/onboard-customer) into your Azure Lighthouse subscription. 
+1. Pair with another member of your team and [Oonboard their Azure subscription](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/onboard-customer) into your Azure Lighthouse subscription. 
 They should enable delegated access of your Azure Arc enabled server to you.
 
 ### Success Criteria
 
-In Azure Lighthouse -> Manage Resources you should see the delegated resources from your team members subscription.
+1. In the *provider* subscription, on the Azure Lighthouse > My customers blade, verify that you can locate the *customer's** subscription.
 
-
+2. In the *customer* subscription, on the Service Providers blade, verify that you can locate the *provider's* offer.
 
 

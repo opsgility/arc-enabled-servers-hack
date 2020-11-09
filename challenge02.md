@@ -11,7 +11,7 @@ In the last challenge you deployed a server and then enabled it as an Azure reso
 
 1. Assign a policy that adds a resource tag to all resources in the resource group where your Azure Arc connected servers are located.
 
-2. Create a suitable Log Analytics workspace to use with your Azure Arc resources. Make sure it is in the same region as your Azure Arc resources to avoid egress charges.
+2. Create a suitable Log Analytics workspace to use with your Azure Arc resources. Make sure it is in the same region as your Azure Arc resources to avoid egress charges. 
 
 3. Assign a policy that automatically deploys the Log Analytics agent to Azure Arc connected servers if they do not have the agent.
 
@@ -19,7 +19,7 @@ In the last challenge you deployed a server and then enabled it as an Azure reso
 
 ### Success Criteria
 
-1. Azure Arc connected servers should have a tag applied by the policy you created in Challenge #1. 
+1. Azure Arc connected servers should have a tag applied by the policy you created in this challenge. 
 
 2. Azure Arc connected servers should have the Log Analytics agent deployed and working.
 
